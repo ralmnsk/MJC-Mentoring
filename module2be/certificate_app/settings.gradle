@@ -1,0 +1,5 @@
+rootProject.name = 'certificate_app'
+include 'repository'
+include 'service'
+include 'web'
+
